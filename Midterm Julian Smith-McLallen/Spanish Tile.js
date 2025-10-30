@@ -3,7 +3,7 @@ function setup() {
   background(255)
   square(0, 0, 200)
 
-  fill(30, 10, 255)
+  fill(170, 10, 40)
   
   noStroke()
   beginShape() 
@@ -25,7 +25,7 @@ function setup() {
   vertex(130, 30)
   endShape()
 
-  fill(200, 40, 150)
+  fill(30, 70, 255)
   beginShape()
   vertex(100, 0)
   vertex(80, 80)
@@ -35,5 +35,8 @@ function setup() {
   vertex(120, 120)
   vertex(200, 100)
   vertex(120, 80)
-  endShape()  
+  endShape() 
+
+  angleMode(DEGREES)
+  arc()
 }
