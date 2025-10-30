@@ -1,7 +1,7 @@
 #Midterm Project Worklog
 Began by creating Spanish tile design on canva, screenshotted for reference
 
-This design included a blue eight-point star, a red four-point star, and a yellow flower with six petals
+This design included a red eight-point star, a blue four-point star, and a yellow flower with six petals
 
 The goal was to create a customizable array of tiles
 
