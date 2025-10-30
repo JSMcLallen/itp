@@ -1,9 +1,13 @@
 #Midterm Project Worklog
 Began by creating Spanish tile design on canva, screenshotted for reference
 
-Created initial squares for tile design
+This design included a blue eight-point star, a red four-point star, and a yellow flower with six petals
 
-Used the rotate() command to make eight-point stars
+The goal was to create a customizable array of tiles
+
+Created initial squares for tile design, using noStroke() to remove the outlines
+
+Used the rotate() command to make eight-point stars out of two squares
 
 Command rotated the coordinate system 45 degrees, positioning became extremely difficult
 
